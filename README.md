@@ -5,4 +5,4 @@ If you're on OS X and Bokeh fails to download its data, try the following:
 
 /Applications/Python\ 3.6/Install\ Certificates.command
 
-The embedded HTML will also run the graphs, make sure you click twice if it doesn't load the first time.
+The embedded HTML will also run the visualizations, make sure you click twice if it doesn't load the first time.
